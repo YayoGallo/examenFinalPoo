@@ -28,9 +28,9 @@ public class Principal {
 				codigo=leer.nextLine();
 				System.out.println("Ingresa el nombre");
 				nombre=leer.nextLine();
-				System.out.println("Ingresa el horario de entrada en formato 24 hrs con 0 min Ejemplo(08:00-09:00)");
+				System.out.println("Ingresa el horario de entrada en formato 24 hrs con 0 min Ejemplo(08:00)");
 				horaEntrada=leer.nextLine();
-				System.out.println("Ingresa el horario de salida en formato 24 hrs con 0 min Ejemplo(08:00-09:00)");
+				System.out.println("Ingresa el horario de salida en formato 24 hrs con 0 min Ejemplo(08:00)");
 				horaSalida=leer.nextLine();
 				System.out.println("Selecciona una especialidad\n"+movimientos.mostrarEspecialidades());
 				opcion=leer.nextLine();
