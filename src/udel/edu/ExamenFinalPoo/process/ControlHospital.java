@@ -7,7 +7,6 @@ import udelp.edu.ExamenFinal.Poo.model.Agenda;
 import udelp.edu.ExamenFinal.Poo.model.Especialidad;
 import udelp.edu.ExamenFinal.Poo.model.Medico;
 import udelp.edu.ExamenFinal.Poo.model.Paciente;
-import udelp.edu.PooGrafico.model.Estudiante;
 
 public class ControlHospital {
 
